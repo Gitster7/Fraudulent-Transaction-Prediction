@@ -1,4 +1,3 @@
-# Transaction-Fraud-Prediction
 # Fraudulent Transaction Prediction using Machine Learning
 
 **Steps involved:**
